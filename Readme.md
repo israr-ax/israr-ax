@@ -1,5 +1,3 @@
-# Israr Ahmed
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:4c1d95&height=220&section=header&text=Israr%20Ahmed&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Backend%20Developer%20%7C%20AI%20Engineer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
