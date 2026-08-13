@@ -16,10 +16,10 @@
 
 <br/><br/>
 
-<a href="https://github.com/israr-ax">
+<a href="https://israr-ahmed-portflio.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/israr-ahmed">
+<a href="https://www.linkedin.com/in/israr-ahmed-a0a0872b7/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:israrmemon211@gmail.com">
@@ -284,29 +284,6 @@ Hands-on backend development focused on building production-oriented web applica
 
 ---
 
-## Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-4C1D95?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-312E81?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-6D28D9?style=for-the-badge&logo=codechef&logoColor=white"/>
-</a>
-
-</div>
-
----
 
 ## GitHub Analytics
 
