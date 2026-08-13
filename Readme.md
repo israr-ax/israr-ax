@@ -377,7 +377,7 @@ Open To:
 <img src="https://img.shields.io/badge/Gmail-israrmemon211%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/israr-ahmed">
+<a href="https://www.linkedin.com/in/israr-ahmed-a0a0872b7/">
 <img src="https://img.shields.io/badge/LinkedIn-Israr%20Ahmed-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -385,7 +385,7 @@ Open To:
 <img src="https://img.shields.io/badge/GitHub-israr--ax-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://github.com/israr-ax">
+<a href="https://israr-ahmed-portflio.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
