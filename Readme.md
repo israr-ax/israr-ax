@@ -246,41 +246,6 @@ Hands-on backend development focused on building production-oriented web applica
 
 ---
 
-## Certifications
-
-### AWS
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/AWS-Certifications%20%26%20Learning-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-</div>
-
-### Oracle
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Oracle-Certifications%20%26%20Learning-4C1D95?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</div>
-
-### NPTEL
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/NPTEL-Certifications%20%26%20Learning-312E81?style=for-the-badge"/>
-
-</div>
-
-### Cisco
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Cisco-Certifications%20%26%20Learning-6D28D9?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-</div>
-
----
 
 
 ## GitHub Analytics
