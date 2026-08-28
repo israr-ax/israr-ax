@@ -268,16 +268,6 @@ Hands-on backend development focused on building production-oriented web applica
 
 ---
 
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=israr-ax&theme=discord&no-frame=true&no-bg=true&margin-w=10&column=7"/>
-
-</div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
