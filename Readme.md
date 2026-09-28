@@ -14,7 +14,7 @@
 
 <br/><br/>
 
-<a href="https://israr-ahmed-portflio.netlify.app/">
+<a href="https://israr-ahmed-dev.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/israr-ahmed-a0a0872b7/">
@@ -340,7 +340,7 @@ Open To:
 <img src="https://img.shields.io/badge/GitHub-israr--ax-312E81?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://israr-ahmed-portflio.netlify.app/">
+<a href="https://israr-ahmed-dev.netlify.app/">
 <img src="https://img.shields.io/badge/Portfolio-GitHub%20Profile-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
